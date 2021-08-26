@@ -29,9 +29,8 @@ ask them to rate our design and idea using the words good, satisfactory,and exce
 and our feedbacks where positive we also had some suggestion and modifiction proposals 
 
 * [Coding..] Next the design resources where sent to our team of coders to be coded 
-
-
-
+![Welcome Screen](https://user-images.githubusercontent.com/44718084/130885970-2a04f380-f9a3-4187-a960-2caf72df6b3e.png)
+![Onboarding screen](https://user-images.githubusercontent.com/44718084/130886076-82a9ddcc-a3b2-42b6-9449-53236bbb24d2.png)
 
 * [Finally] we hope upgrades in our current app version in the coming weeks 
 and currently we our on facebook at and hope to extend our solution world wide in the upcoming months  
@@ -40,8 +39,10 @@ and currently we our on facebook at and hope to extend our solution world wide i
 ## About equilo
 
 We think equilo will help promote equality in human rights on local and inter-continetal levels
-the idea behind this app is grouping social activies and many people and organizatios concerned 
+the idea behind this app  is grouping social activies and many people and organizatios concerned 
 about human right one platfrom and help cause them to interact and share with each other 
 activites they do on a daily base to fight for equality in rights 
 
-thanks for your attention 
+<i>Protoype [AdobeXD](https://www.adobe.com/) and coded on [andriod Studio](https://developer.android.com/studio)</i>
+
+*thanks for your attention 
