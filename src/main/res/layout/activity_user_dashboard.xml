@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.UserDashboard"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/white_nav"
+        android:elevation="10dp"
+        android:padding="40dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centreVertical="true"
+            android:src="@drawable/menu_icon" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="0dp"
+            android:background="#E7F2F1">
+
+            <TextView
+                android:id="@+id/search_text"
+                android:layout_width="187dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginEnd="76dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/GOTHIC"
+                android:text="@string/search_text" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/search_icon" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:layout_margin="1dp"
+                android:background="@drawable/active_slit"
+                android:elevation="8dp">
+
+                <View
+                    android:layout_width="52dp"
+                    android:layout_height="2dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/active_slit" />
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/feeds"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:layout_margin="1dp"
+                android:background="@drawable/inactive_slit"
+                android:elevation="8dp">
+
+                <View
+                    android:layout_width="52dp"
+                    android:layout_height="2dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/inactive_slit" />
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/chat"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:layout_margin="1dp"
+                android:background="@drawable/inactive_slit"
+                android:elevation="8dp">
+
+                <View
+                    android:layout_width="52dp"
+                    android:layout_height="2dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/inactive_slit" />
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/learn"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:layout_margin="1dp"
+                android:background="@drawable/inactive_slit"
+                android:elevation="8dp">
+
+                <View
+                    android:layout_width="52dp"
+                    android:layout_height="2dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/inactive_slit" />
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/activity"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
