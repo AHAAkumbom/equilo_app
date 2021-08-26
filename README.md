@@ -21,7 +21,7 @@ to identify the problem and we did a presentation of our data in our pdf present
 * [Wireframe-UI/UXdesign/Prototype] We  move to Adobe Xd after concluding on creating a mobile app solution we moved 
 try to represent and illustratre our app idea and we made a protoype video 
 in Adobe Xd we designed each app interface and all this was sent to the team incharge of coding this took the design
-team a month  below low is a pictur of the Adobe Xd design dash board
+team a month  below low is a picture of the Adobe Xd design dash board
 ![image](https://user-images.githubusercontent.com/44718084/130881067-8eac1ccf-fd72-4a16-ba1c-51899b183da0.png)
 
 * [UI/UX testing] next we booked a Uer interface User experience testing session with some organization and individual and 
@@ -29,6 +29,9 @@ ask them to rate our design and idea using the words good, satisfactory,and exce
 and our feedbacks where positive we also had some suggestion and modifiction proposals 
 
 * [Coding..] Next the design resources where sent to our team of coders to be coded 
+
+
+
 
 * [Finally] we hope upgrades in our current app version in the coming weeks 
 and currently we our on facebook at and hope to extend our solution world wide in the upcoming months  
