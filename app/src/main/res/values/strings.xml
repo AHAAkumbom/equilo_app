@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Equilo</string>
+    <string name="logo_name">Equilo</string>
+    <string name="slogan_name">Promoting equality in right</string>
+
+    <!--String for On Boarding Screen-->
+
+    <!--Titles-->
+    <string name="first_slide_title">Welcome</string>
+    <string name="second_slide_title">Welcome</string>
+    <string name="third_slide_title">Welcome</string>
+
+    <!--Description-->
+
+    <string name="first_slide_desc">Here we promote and share equal values to fight against gender inequality </string>
+    <string name="second_slide_desc">Please Join Us in our fight against Gender Inequality by sign-In or Create new Account</string>
+    <string name="third_slide_desc">Join Us .</string>
+
+    <!--Button-->
+    <string name="next_btn">Next</string>
+    <string name="Skip_btn">Skip</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--Strings for Dashboard-->
+
+    <!--Categories-->
+    <string name="feeds">Feeds</string>
+    <string name="chat">Chat</string>
+    <string name="learn">Learn</string>
+    <string name="activity">Activity</string>
+
+    <!--Titles and Descriptions-->
+    <string name="search_text">Search for a new feeds</string>
+
+
+</resources>
