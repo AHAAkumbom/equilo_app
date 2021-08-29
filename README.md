@@ -1,4 +1,4 @@
-![Equilo O-04](https://user-images.githubusercontent.com/44718084/130879285-b7e4f518-d112-4749-9241-3fa7f5faf2e6.png)
+![Equilo O-04]![Web 1920 – 2](https://user-images.githubusercontent.com/44718084/131264808-1a107a03-e0a7-4435-beda-6b62270a44e4.png)
 # equilo_app
 Equilo <i>equillo stands at "promoting Equality in right"</i>
 it is an app that has objective to bring people together in group and help them 
