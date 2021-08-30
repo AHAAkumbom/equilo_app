@@ -1,4 +1,4 @@
-![Uploading Web 1920 – 2@2x.png…]()
+![Web 1920 – 2@2x](https://user-images.githubusercontent.com/44718084/131335694-ac22aad2-c908-48d8-a57a-1be7f32caae8.png)
 # equilo_app
 Equilo <i>equillo stands at "promoting Equality in right"</i>
 it is an app that has objective to bring people together in group and help them 
