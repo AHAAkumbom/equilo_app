@@ -45,5 +45,5 @@ about human right one platfrom and help cause them to interact and share with ea
 activites they do on a daily base to fight for equality in rights 
 
 <i>Protoype [AdobeXD](https://www.adobe.com/) and coded on [andriod Studio](https://developer.android.com/studio)</i>
-
+pdf presentation :https://drive.google.com/file/d/1swyulZpqzopMWWBB-d6XOpVbP5Akgl0Q/view?usp=sharing
 *thanks for your attention 
